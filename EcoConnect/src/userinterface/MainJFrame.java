@@ -210,25 +210,25 @@ public MainJFrame() {
         char[] pass = txtPwd.getPassword();
         String password = String.valueOf(pass);
         
-        if(userName.equals("admin"))
-        {
-            System.out.println("Admin---");
-           if (authenticate(userName, password)) {
-               
-               UserAccount ua= business.getUserAccountDirectory().findUserAccount(userName);
-               CardLayout layout=(CardLayout)container.getLayout();
-               container.add("workArea", ua.getRole().createWorkArea(container, ua, business));
-             layout.next(container);
-            
-            } 
-            else {
-               JOptionPane.showMessageDialog(null,"Invalid username or password!");
-               return;
-            }
-          
-        }
-        else
-        {
+//        if(userName.equals("admin"))
+//        {
+//            System.out.println("Admin---");
+//           if (authenticate(userName, password)) {
+//               
+//               UserAccount ua= business.getUserAccountDirectory().findUserAccount(userName);
+//               CardLayout layout=(CardLayout)container.getLayout();
+//               container.add("workArea", ua.getRole().createWorkArea(container, ua, business));
+//             layout.next(container);
+//            
+//            } 
+//            else {
+//               JOptionPane.showMessageDialog(null,"Invalid username or password!");
+//               return;
+//            }
+//          
+//        }
+//        else
+//        {
             UserAccount userAccount = business.getUserAccountDirectory().authenticateUser(userName, password);
             EcoSystem inEcoSystem =null;
             Organization inOrganization=null;
@@ -244,7 +244,7 @@ public MainJFrame() {
             }
 
 
-        }
+//        }
         
        
         btnLogin.setEnabled(false);
