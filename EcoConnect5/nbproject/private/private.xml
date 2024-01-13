@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/userinterface/Administrator/AddSupplierJPanel.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/ConfigureABusiness.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/SupplierEnterprise.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/userinterface/Administrator/ChartEnterpriseJPanel.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/UserAccount/UserAccountDirectory.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/WorkQueue/OrderInventoryWorkRequest.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/userinterface/Administrator/AddLabJPanel.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/WorkQueue/PharmacyOrder.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/userinterface/LogoutJPanel.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/InsuranceEnterprise.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/WorkQueue/EmergencyWorkRequest.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/WorkQueue/LabTestWorkRequest.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/WorkQueue/WorkRequest.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/userinterface/Administrator/AddEmergencyUnitJPanel.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/HospitalEnterprise.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/userinterface/Administrator/AddHospital.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/OrganizationDirectory.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/WorkQueue/BookTestWorkRequest.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/WorkQueue/PlaceNewOrderWorkRequest.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/EnterpriseDirectory.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/userinterface/Administrator/AddPharmacy.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/Doctor/Doctor.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/WorkQueue/BookAppointment.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/Organization.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/WorkQueue/WorkQueue.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/WorkQueue/BuyInsuranceWorkRequest.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/PharmacyEnterprise.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/userinterface/Administrator/AddInsuranceCompanyJPanel.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/userinterface/MainJFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/Enterprise.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/EcoConnect5/src/Business/UserAccount/UserAccount.java</file>
+        </group>
+    </open-files>
+</project-private>
