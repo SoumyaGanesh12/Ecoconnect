@@ -10,30 +10,6 @@ The EcoConnect System addresses the need for a multi-party communication system 
 
 ## Features
 
-The EcoConnect System provides a comprehensive solution to streamline communication and collaboration across multiple healthcare entities. Below are the key features implemented in the system:
-
-1. **Multi-Enterprise Communication Ecosystem**
-   - The system includes participation from at least 4 enterprises, 4-8 organizations, and 4-6 roles, creating a complex and integrated communication network for healthcare services.
-   
-2. **Role-Based Authentication**
-   - A robust role-based authentication module ensures secure access with strong username and password capabilities. Different roles (e.g., system admin, hospital admin, doctor, patient) are defined with specific permissions to maintain data security and integrity.
-
-3. **Reporting Module**
-   - A reporting module that provides summarized views of system data, offering insights into performance metrics and operational data. This module helps stakeholders make data-driven decisions and track key system performance indicators.
-
-4. **Configuration and Test Case Module**
-   - The system includes a configuration module that ensures model population and correctness. Test cases are provided to verify the integrity and functionality of the solution. Additionally, integration with the Faker module allows for random data generation for testing purposes.
-
-5. **Swing Application**
-   - The core of the EcoConnect System is a **Swing application** that provides the user interface for interaction across the ecosystem. It facilitates communication, data entry, and management tasks for users such as doctors, patients, administrators, and suppliers.
-
-These features ensure that EcoConnect is an efficient, secure, and scalable solution for managing complex healthcare operations across multiple entities and roles.
-
-
-## Features of EcoConnect System
-
-The EcoConnect System offers an integrated healthcare management solution that facilitates communication, coordination, and efficient operations across multiple healthcare entities. Below are the key features:
-
 - **Role-Based Access and Authentication:**  
   Secure login with username and password, offering role-based access. Each role has defined permissions to ensure that users have access only to the data and functions they are authorized to use.
 
