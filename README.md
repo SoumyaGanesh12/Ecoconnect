@@ -10,41 +10,52 @@ The EcoConnect System addresses the need for a multi-party communication system 
 
 ## Features
 
-1. **Role-Based Access and Authentication**  
-   - Secure login with username and password.
-   - Different roles with defined permissions and access.
+The EcoConnect System provides a comprehensive solution to streamline communication and collaboration across multiple healthcare entities. Below are the key features implemented in the system:
 
-2. **Communication Ecosystem**  
-   - Seamless interaction between hospitals, labs, pharmacies, insurance companies, suppliers, and emergency services.
-   - Support for complex use cases involving multiple entities.
+1. **Multi-Enterprise Communication Ecosystem**
+   - The system includes participation from at least 4 enterprises, 4-8 organizations, and 4-6 roles, creating a complex and integrated communication network for healthcare services.
+   
+2. **Role-Based Authentication**
+   - A robust role-based authentication module ensures secure access with strong username and password capabilities. Different roles (e.g., system admin, hospital admin, doctor, patient) are defined with specific permissions to maintain data security and integrity.
 
-3. **Hospital Management**  
-   - Admins manage doctors, patients, inventory, and orders.
-   - Doctors manage prescriptions, appointments, and lab test requests.
-   - Patients can book appointments, request tests, and choose insurance plans.
+3. **Reporting Module**
+   - A reporting module that provides summarized views of system data, offering insights into performance metrics and operational data. This module helps stakeholders make data-driven decisions and track key system performance indicators.
 
-4. **Lab Management**  
-   - Lab assistants manage lab requests and publish test results.
+4. **Configuration and Test Case Module**
+   - The system includes a configuration module that ensures model population and correctness. Test cases are provided to verify the integrity and functionality of the solution. Additionally, integration with the Faker module allows for random data generation for testing purposes.
 
-5. **Insurance Company Management**  
-   - Insurance companies manage plans, create new policies, and process orders.
+5. **Swing Application**
+   - The core of the EcoConnect System is a **Swing application** that provides the user interface for interaction across the ecosystem. It facilitates communication, data entry, and management tasks for users such as doctors, patients, administrators, and suppliers.
 
-6. **Emergency Services Management**  
-   - Emergency admins manage emergency requests and access patient emergency histories.
+These features ensure that EcoConnect is an efficient, secure, and scalable solution for managing complex healthcare operations across multiple entities and roles.
 
-7. **Pharmacy Management**  
-   - Pharmacy admins manage medication inventory and process orders from hospitals.
 
-8. **Supplier Management**  
-   - Supplier admins manage inventory and supply orders to hospitals and pharmacies.
+## Features of EcoConnect System
 
-9. **Reporting and Analytics**  
-   - Summarized data reports at the system or network level.
-   - Track performance and generate insights.
+The EcoConnect System offers an integrated healthcare management solution that facilitates communication, coordination, and efficient operations across multiple healthcare entities. Below are the key features:
 
-10. **Configuration and Test Cases**  
-    - Includes test cases to ensure system correctness.
-    - Integration with Faker module for random data generation.
+- **Role-Based Access and Authentication:**  
+  Secure login with username and password, offering role-based access. Each role has defined permissions to ensure that users have access only to the data and functions they are authorized to use.
+
+- **Communication Ecosystem:**  
+  Seamless interaction and coordination between various organizations such as hospitals, labs, pharmacies, insurance companies, suppliers, and emergency services. The system supports complex use cases involving multiple entities across organizational boundaries, ensuring efficient collaboration.
+
+- **Healthcare Management Modules:**  
+  - **Hospital Management:** Hospital admins manage doctors, patients, inventory, and order supplies. Doctors handle prescriptions, manage appointments, and request lab tests. Patients can book appointments, request tests, and manage their insurance plans.
+  - **Lab Management:** Lab assistants manage lab requests and publish test results to keep healthcare teams informed.
+  - **Insurance Company Management:** Insurance companies manage and create insurance policies, process claims, and handle orders from hospitals and patients.
+  - **Emergency Services Management:** Emergency admins respond to urgent requests, access patient emergency histories, and coordinate emergency responses.
+  - **Pharmacy Management:** Pharmacy admins oversee medication inventory and process medicine orders from hospitals and other organizations.
+  - **Supplier Management:** Suppliers manage inventory and fulfill orders from hospitals and pharmacies.
+
+- **Reporting and Analytics:**  
+  The system includes a reporting module that provides summarized data at the system and network levels. Performance tracking and insights generation help identify trends, bottlenecks, and areas for improvement.
+
+- **Configuration and Testing:**  
+  The system integrates a configuration module that ensures the solution's correctness with test cases. It also integrates with the Faker module for random data generation to simulate realistic testing environments.
+
+This unified ecosystem enables the efficient operation of multiple healthcare entities by promoting collaboration, enhancing communication, and streamlining key healthcare processes.
+
 
 ## System Roles & Responsibilities
 
@@ -87,21 +98,6 @@ The EcoConnect System addresses the need for a multi-party communication system 
 #### Supplier Admin
 - Manage inventory.
 - Supply inventory to hospitals and pharmacies.
-
-## Deliverables
-
-1. A running **Swing Application** that addresses the communication ecosystem at an eco-system scale.
-   - Includes participation of at least 4 enterprises, 4-8 organizations, and 4-6 roles.
-
-2. A **presentation** detailing the design and implementation of the solution.
-   - Covers the definition of the problem, stakeholders, use-cases, design, and implementation techniques.
-
-3. A **role-based authentication module** with strong username and password capabilities.
-
-4. A **reporting module** providing summarized views of system data.
-
-5. A **configuration module** with test cases for model population and solution correctness.
-   - Integrates Faker module for random data generation.
 
 ## Tech Stack
 
